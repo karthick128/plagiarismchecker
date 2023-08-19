@@ -1,0 +1,7 @@
+Plagiarism score: 100.00%
+
+Common text in file 1:
+The advent of technology has revolutionized the way we communicate and access info**rmation. With the internet at our fingertips, we can easily connect with people around the world and gather knowledge on various subjects. The rapid growth of social media platforms has further enhanced our ability to share and exchange ideas. However, along with the benefits, there are also challenges such as info**rmation overload and the spread of misinfo**rmation. It is important to critically evaluate the info**rmation we come across and ensure its credibility before accepting it as factual.
+
+Common text in file 2:
+The emergence of technology has completely transformed communication and info**rmation retrieval methods. Thanks to the internet, we now have instant access to a wealth of info**rmation and can effortlessly connect with individuals globally. The exponential rise of social media networks has significantly amplified our capacity to exchange and disseminate thoughts and concepts. Nevertheless, amidst these advantages, we are confronted with obstacles like the overwhelming volume of data and the propagation of false info**rmation. It is imperative to exercise discernment when confronted with info**rmation and verify its authenticity prior to endorsing it.
